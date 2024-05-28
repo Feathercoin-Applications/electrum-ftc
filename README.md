@@ -1,4 +1,4 @@
-# Electrum - Lightweight Bitcoin client
+# Electrum - Lightweight Feathercoin client
 
 ```
 Licence: MIT Licence
